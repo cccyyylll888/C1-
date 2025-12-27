@@ -523,7 +523,7 @@ int main()
         start = clock();
     }
     print_hex(candidate);
-    printf("\n以下是用于测试的10个数\n");
+    printf("\n浠ヤ笅鏄敤浜庢祴璇曠殑10涓暟\n");
     for(int i = 1;i <= 10;i++)
     {
     	print_hex(test_cnt[i]);
